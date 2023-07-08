@@ -1,0 +1,11 @@
+name: OriginBuff
+version: '${project.version}'
+main: cn.originmc.plugins.originbuff.OriginBuff
+api-version: 1.13
+authors: [ Yeqi ]
+commands:
+  OriginBuff:
+    aliases:
+      - ob
+      - obuff
+      - buff

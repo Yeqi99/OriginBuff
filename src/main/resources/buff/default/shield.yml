@@ -1,0 +1,7 @@
+name: "护盾"
+info:
+  - "能够抵抗伤害"
+attributes:
+  - "key^sign`value^!1"
+  - "key^护盾值`value^!2"
+format: "*!sign*-*duration*-*!护盾值*"
